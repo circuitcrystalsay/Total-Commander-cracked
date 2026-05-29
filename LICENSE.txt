@@ -25,4 +25,4 @@ Core Capabilities
 
 
 TAGS
-total-commander, total-commander-11, file-manager, dual-pane, ftp-client, multi-rename, pro-software-2026, trial-software                    
+total-commander, total-commander-11, file-manager, dual-pane, ftp-client, multi-rename, pro-software-2026, trial-software                     
